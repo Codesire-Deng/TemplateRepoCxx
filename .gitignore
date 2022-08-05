@@ -56,5 +56,24 @@ _deps
 # Local History for Visual Studio Code
 .history/
 
+# clangd
+.cache/
+
 # Built Visual Studio Code Extensions
 *.vsix
+
+# ============
+# custom rules
+draft/
+
+perf.data*
+*.data
+
+# log for perf
+log
+tmp
+*.rdb
+*.svg
+
+# public/index.html for httpd
+public/
