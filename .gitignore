@@ -62,18 +62,19 @@ _deps
 # Built Visual Studio Code Extensions
 *.vsix
 
-# ============
-# custom rules
 draft/
-
-perf.data*
-*.data
 
 # log for perf
 log
 tmp
 *.rdb
 *.svg
+perf/
+perf.data*
+*.data
+*.perf
+*.folded
+palette.map
 
 # public/index.html for httpd
 public/
