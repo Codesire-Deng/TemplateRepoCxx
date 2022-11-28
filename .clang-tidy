@@ -62,4 +62,3 @@ CheckOptions:
     value:           aNy_CasE
   - key:             readability-identifier-naming.VariableCase
     value:           aNy_CasE
-...
